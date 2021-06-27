@@ -4,9 +4,9 @@ package com.github.shibor.snippet.designpattern.factory.factorymethod;
 import java.util.Scanner;
 
 /**
- * <h>
+ *
  * 工厂方法
- * </h>
+ *
  * <p>
  * 一个抽象产品，一个抽象工厂
  * 添加新产品就添加新的工厂

@@ -1,7 +1,7 @@
 package com.github.shibor.snippet.designpattern.templatemethod;
 
 /**
- * <h>模板方法模式</h>
+ * 模板方法模式
  */
 public class TemplateMethodDemo {
 

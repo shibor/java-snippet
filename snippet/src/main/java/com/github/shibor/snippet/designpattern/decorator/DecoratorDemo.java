@@ -1,7 +1,7 @@
 package com.github.shibor.snippet.designpattern.decorator;
 
 /**
- * <h>装饰器模式</h>
+ * 装饰器模式
  * 1、扩展一个类的功能。 2、动态增加功能
  *
  * @author shibor

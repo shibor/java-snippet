@@ -3,7 +3,7 @@ package com.github.shibor.snippet.designpattern.flyweight;
 import java.util.HashMap;
 
 /**
- * <h>享元模型</h>
+ * 享元模型
  */
 public class FlyWeightDemo {
 

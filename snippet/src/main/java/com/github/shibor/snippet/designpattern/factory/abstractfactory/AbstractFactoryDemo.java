@@ -3,9 +3,9 @@ package com.github.shibor.snippet.designpattern.factory.abstractfactory;
 import java.util.Scanner;
 
 /**
- * <h>
+ *
  * 抽象工厂
- * </h>
+ *
  *
  * <p>
  * 提供一个接口，用于创建**相关的或依赖对象的家族**，而不需要明确指定具体类。

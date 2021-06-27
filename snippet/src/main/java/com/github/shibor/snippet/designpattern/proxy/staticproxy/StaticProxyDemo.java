@@ -1,9 +1,9 @@
 package com.github.shibor.snippet.designpattern.proxy.staticproxy;
 
 /**
- * <h>
+ *
  * 静态代理
- * </h>
+ *
  * <p>
  * 代理类和目标类实现同一接口
  * 方法必须一个一个去拦截

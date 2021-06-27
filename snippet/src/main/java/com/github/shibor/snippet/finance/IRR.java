@@ -36,7 +36,7 @@ public class IRR {
      *
      * @param values 现金流
      * @param guess  预计折现率
-     * @return
+     * @return irr值
      */
     public static double irr(double[] values, double guess) {
 
@@ -86,7 +86,7 @@ public class IRR {
      *
      * @param rate   折现率
      * @param values 现金流
-     * @return
+     * @return irr值
      */
     public static double npv(double rate, double[] values) {
         if (values.length == 0) {

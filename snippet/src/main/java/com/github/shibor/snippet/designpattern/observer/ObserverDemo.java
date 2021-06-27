@@ -3,7 +3,7 @@ package com.github.shibor.snippet.designpattern.observer;
 import java.util.ArrayList;
 
 /**
- * <h>观察者模式</h>
+ * 观察者模式
  * 一个对象（目标对象）的状态发生改变，所有的依赖对象（观察者对象）都将得到通知
  *
  * @author shibor

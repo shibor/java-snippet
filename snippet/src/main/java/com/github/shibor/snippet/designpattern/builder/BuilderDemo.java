@@ -1,18 +1,18 @@
 package com.github.shibor.snippet.designpattern.builder;
 
 /**
- * <h>
+ *
  * 构建者模式
- * </h>
+ *
  * <p>
  * Builder：生成器接口，定义创建一个Product对象所需的各个部件的操作。
- * <br/>
+ * <br>
  * ConcreteBuilder：具体的生成器实现，实现各个部件的创建，并负责组装Product对象的各个部件，提供获取产品对象的方法。
- * <br/>
+ * <br>
  * Director：统一组装过程
- * <br/>
+ * <br>
  * Product：产品，表示被生成器构建的复杂对象，包含多个部件。
- * </p>
+ *
  *
  * @author shibor
  */

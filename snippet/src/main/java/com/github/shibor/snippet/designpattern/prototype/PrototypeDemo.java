@@ -3,9 +3,9 @@ package com.github.shibor.snippet.designpattern.prototype;
 import java.io.*;
 
 /**
- * <h>
+ *
  *     原型模式
- * </h>
+ *
  * 浅拷贝 Cloneable
  * 深拷贝 序列化 Serializable
  *

@@ -1,7 +1,7 @@
 package com.github.shibor.snippet.designpattern.command;
 
 /**
- * <h>命令模式</h>
+ * 命令模式
  *
  * @author shibor
  */

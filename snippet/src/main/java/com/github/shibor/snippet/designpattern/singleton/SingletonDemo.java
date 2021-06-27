@@ -1,9 +1,9 @@
 package com.github.shibor.snippet.designpattern.singleton;
 
 /**
- * <h>
+ *
  * 单例模式
- * </h>
+ *
  * 保证一个类仅有一个实例，并提供一个访问它的全局访问点。
  *
  * @author shibor

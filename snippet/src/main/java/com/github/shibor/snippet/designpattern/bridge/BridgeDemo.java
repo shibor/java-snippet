@@ -1,7 +1,7 @@
 package com.github.shibor.snippet.designpattern.bridge;
 
 /**
- * <h>桥接模式</h>
+ * 桥接模式
  * 把 is-a 转换成 has-a 关系
  * 类只有一个改变它的原因
  * 例子中，颜色和形状的修改都不需要修改原来的代码，开闭原则
